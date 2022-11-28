@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Database App</string>
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="add">Agregar Constante</string>
+    <string name="delete">Borrar Constante ¿Estas Seguro?</string>
+</resources>
